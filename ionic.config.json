@@ -1,0 +1,7 @@
+{
+  "name": "prefinal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
